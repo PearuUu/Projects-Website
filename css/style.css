@@ -738,7 +738,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.3s;
 }
 .work .desc h3 {
-  font-size: 20px;
+  font-size: 25px;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
   -webkit-transform: translate3d(0, -15px, 0);
@@ -768,7 +768,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .work:hover .desc {
-  opacity: 1;
+  opacity: .92;
 }
 .work:hover .desc h3 {
   -webkit-transform: translate3d(0, 0, 0);
